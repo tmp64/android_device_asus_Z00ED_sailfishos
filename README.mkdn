@@ -1,4 +1,4 @@
-# This device tree is for Sailfish OS port for ASUS ZE500KL. Please go (here)[https://github.com/audahadi/android_device_asus_Z00ED] for the Android device tree.
+# This device tree is for Sailfish OS port for ASUS ZE500KL. Please go [here](https://github.com/audahadi/android_device_asus_Z00ED) for the Android device tree.
 
 Unified Device Tree for Asus Zenfone 2 Laser (720p)
 ===========================================
